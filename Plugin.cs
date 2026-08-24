@@ -7,7 +7,7 @@ using UnityEngine;
 
 namespace SmajlecLights;
 
-[BepInPlugin("com.smajlec.lights", "SmajlecLights", "1.2.0")]
+[BepInPlugin("com.smajlec.lights", "SmajlecLights", "1.3.0")]
 public class Plugin : BaseUnityPlugin
 {
     // Config
