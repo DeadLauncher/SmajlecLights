@@ -151,8 +151,8 @@ public class Plugin : BaseUnityPlugin
             default:
                 return new MapData
                 {
-                    Tonemap = new Vector3(8f, -0.1f, 8f),
-                    SecondaryTonemap = new Vector3(0f, 0.85f, 0f)
+                    Tonemap = new Vector3(20f, 0.4f, 20f),
+                    SecondaryTonemap = new Vector3(0f, 1f, 0f)
                 };
         }
     }
